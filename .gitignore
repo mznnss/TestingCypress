@@ -1,0 +1,9 @@
+node_modules/
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+TestingCrypess.zip
